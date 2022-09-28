@@ -12,6 +12,7 @@
 * Aula 4 - Utilizando Git e GitHub
 * Aula 5 - Implementação do README
 * Aula 6 - API
+* Aula 7 - Test
 
 ## Como executar as aplicações:
 
@@ -25,6 +26,9 @@ $ npm install
 
 #Executar
 $ npm start
+
+#Executar Test
+$ npm run test
 ```
 
 # Autor
