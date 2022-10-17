@@ -13,6 +13,7 @@
 * Aula 5 - Implementação do README
 * Aula 6 - API
 * Aula 7 - Test
+* Aula 8 - Mock Tests
 
 ## Como executar as aplicações:
 
