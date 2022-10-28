@@ -14,6 +14,7 @@
 * Aula 6 - API
 * Aula 7 - Test
 * Aula 8 - Mock Tests
+* Aula 11 - Design Pattern
 
 ## Como executar as aplicações:
 
