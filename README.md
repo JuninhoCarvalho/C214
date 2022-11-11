@@ -15,6 +15,7 @@
 * Aula 7 - Test
 * Aula 8 - Mock Tests
 * Aula 11 - Design Pattern
+* Aula 12 - Basic Front End
 
 ## Como executar as aplicações:
 
